@@ -2,6 +2,6 @@
 This is a library management written in C++. 
 
 Submitted By:
-  Jeric Neil M. Bustos (Main Programmer)
+  Jeric Neil M. Bustos (Main Programmer) and
   Princess Catherine Cuevas (Programmer and Tester)
   
